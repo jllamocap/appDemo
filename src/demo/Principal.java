@@ -6,8 +6,12 @@ public class Principal {
 		//Master demo
 		System.out.println("Versión base en master");
 		
+
 		FeatureA fa = new FeatureA();
 		System.out.println(fa.getInfo());
+		
+		FeatureB fb = new FeatureB();
+		System.out.println(fb.getInfo());
 	}
 
 }
