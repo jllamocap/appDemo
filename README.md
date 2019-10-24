@@ -7,3 +7,4 @@ Feature A before Local Merge Publish
 Developed 16/10/2019
 
 Feature C
+Feature B
