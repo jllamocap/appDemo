@@ -15,6 +15,9 @@ public class Principal {
 		
 		FeatureB fc = new FeatureB();
 		System.out.println(fc.getInfo());
+		
+		FeatureB fb2 = new FeatureB();
+		System.out.println(fb2.getInfo());
 	}
 
 }
