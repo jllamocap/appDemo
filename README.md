@@ -16,5 +16,3 @@ Feature F
 Feature I
 
 Feature XXX
-
-featureL

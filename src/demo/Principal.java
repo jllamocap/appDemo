@@ -18,7 +18,6 @@ public class Principal {
 		
 		FeatureB fb2 = new FeatureB();
 		System.out.println(fb2.getInfo());
-		//featureL
 	}
 
 }
